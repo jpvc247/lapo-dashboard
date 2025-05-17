@@ -1,12 +1,5 @@
+import React from "react";
 
-import "./App.css";
-
-function App() {
-  return (
-    <>
-      <h1>Welcome to Lapo Dashboard</h1>
-    </>
-  );
+export default function App() {
+  return <div>Welcome to my app</div>;
 }
-
-export default App;
